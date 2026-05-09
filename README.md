@@ -26,13 +26,17 @@ Manga Shelf helps users:
 
 ## Screenshots
 
-| Home | Collection | Add Manga |
+| Home Dashboard | Collection | Add Manga |
 |---|---|---|
-| ![Home screen](screenshots/home.png) | ![Collection screen](screenshots/collection.png) | ![Add manga screen](screenshots/add-manga.png) |
+| ![Home Dashboard](screenshots/1_home.jpg) | ![Collection](screenshots/6_Collection.jpg) | ![Add Manga](screenshots/7_Add_Manga.jpg) |
 
-| Shelves | Manga Detail | Settings |
+| AniList Metadata Search | Shelves | Shelf Details |
 |---|---|---|
-| ![Shelves screen](screenshots/shelves.png) | ![Manga detail screen](screenshots/manga-detail.png) | ![Settings screen](screenshots/settings.png) |
+| ![AniList Metadata Search](screenshots/8_Add_Manga_with_AniList.jpg) | ![Shelves](screenshots/9_View_Create_Shelf.jpg) | ![Shelf Details](screenshots/10_Shelf_Details.jpg) |
+
+| Manga Details |
+|---|
+| ![Manga Details](screenshots/11_Manga_Details.jpg) |
 
 ## Tech stack
 
